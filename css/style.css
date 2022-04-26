@@ -1,0 +1,12 @@
+* {
+    background: black;
+}
+
+ul {
+    list-style: none;
+}
+
+li a {
+    color: rgb(0, 50, 10);
+    text-decoration: none;
+}
